@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "/www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="/www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style>
+body{margin:0px;background-color:black;font-size:12px;color:#99B6D6;line-height:17px;}
+*{margin:0px;padding:0px;}
+#outer{position:absolute;top:50%;width:100%;float:left;z-index:10000;}
+#outer2{position:absolute;top:-50px;width:100%;}
+#wrapper{position:relative;margin:auto;padding-left:30px;width:410px;height:320px;}
+#left{width:173px;float:left;margin:0 10px 0 0;}
+#right{width:220px;float:left;margin-top:3px;}
+#btn{width:173px;height:55px;background-image:url(qvodimg/down_btn.jpg);}
+#btn>a{width:173px;height:55px;display:block;}
+a{color:#CBDEF0;}
+a:link,a:visited{
+text-decoration:none;
+}
+#ver{width:173px;height:55px;cursor:hand;}
+#text{position:relative;top:33px;left:20px;	}
+#shadow{margin-top:12px;width:173px;height:45px;background-image:url(down_shadow.jpg);clear:both;}
+#bottom{position:absolute;bottom:0px;background:red;height:29px;width:100%;background:url(qvodimg/player_bg.gif)}
+#player_left{float:left;width:75px;height:29px;background:url(qvodimg/player_left.gif)}
+#player_right{float:right;width:259px;height:29px;background:url(qvodimg/player_right.gif);}
+#mark{position:absolute;width:234px;height:208px;float:right;right:0px;bottom:0px;background-color:black;}
+.clear{clear:both;}
+</style>
+<title>播放器的安装</title>
+</head>
+<body>
+<script>
+var url=document.URL;
+downurl="http://dl.kuaibo.com/QvodSetup5.exe"
+if(url.indexOf("###")>1){
+    url=url.split("###")[1];if(url.length>0){downurl=url}
+}
+</script>
+<div id="outer">
+<div id="outer2">
+
+<div id="wrapper">
+	<div id="left">
+	    <script>document.write('<div id="btn"><a href="'+downurl+'"><div id="ver"><div id="text">&nbsp;&nbsp;快播播放器&nbsp;</div></div></a></div>');</script>
+    </div>
+	<div id="right">
+		<p>本影片的观看需要安装快播播放器</p>
+		<script>document.write('<p>请先下载安装 <a href="'+downurl+'">快播播放器</a></p>');</script>
+        <p>安装完成后请刷新页面或按F5即可</p>
+	</div>
+</div>
+
+</div>
+</div>
+<div id="mark"></div>
+<div class="clear"></div>
+<div id="bottom">
+	<div id="player_left"></div>
+	<div id="player_right"></div>
+</div>
+</body>
+</html>

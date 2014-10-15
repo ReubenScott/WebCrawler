@@ -1,0 +1,64 @@
+<html><head><style>
+ body{margin:0}
+ textarea{width:760;height:180;font-size:9pt;font-family:Courier New;color:#666666}</style>
+ <title>html转换成js</title>
+<style type="text/css">
+<!--
+
+td,body {  font-size: 9pt}
+
+a:link{ color:#000000; text-decoration:none}     
+
+a:visited{COLOR: #000000; TEXT-DECORATION: none} 
+
+a:active{color:green;text-decoration:none}
+
+a:hover{color:red;text-decoration:underline} body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+}
+.f9 {font-size: 12px;}
+#sfont a,#sfont b{font-size:13px;}
+.f9pt{font-size: 12px;}
+--> 
+
+</style><base target="_blank">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div align="center">
+  <table border=0 cellPadding=0 cellSpacing=0 width=778 height=4>
+    <tr align=center><td height="3" bgcolor="#FFFFA2"></td>
+  </tr><tr align=center>  <td height="1" bgcolor="#FFFFA2"></td></tr></table>
+
+
+<center>
+<p><a href="js2html.html" target="content">JS转HTML</a>&nbsp;&nbsp;<font color="#FF0000">HTML转JS</font></p>
+</center>
+
+
+
+
+  请将HTML源代码拷贝到下面表单中: <br>
+  <textarea id="oSource" onpropertychange="change()" ></textarea>
+  <br><br>
+  下面表单中是相应的JS代码: <br />
+  <textarea cols="100" id="oResult" title="双击复制" ondblclick='this.select();oResult.createTextRange().execCommand("Copy")'></textarea>  </textarea>
+  <br>
+  <script>
+ function change(){
+ oResult.value="document.writeln(\""+oSource.value.replace(/\\/g,"\\\\").replace(/\//g,"\\/").replace(/\'/g,"\\\'").replace(/\"/g,"\\\"").split('\r\n').join("\");\ndocument.writeln(\"")+"\")"
+ } </script>
+</div>
+</div>
+<!-- 
+#程序作者: vivi_studio
+#授权联系: qq:9 96948519
+#官网网址: www.08le.cn
+-->
+</body></html>
+<script language=javascript defer>
+<!--
+document.form1.wd.focus()
+//-->
+</script>

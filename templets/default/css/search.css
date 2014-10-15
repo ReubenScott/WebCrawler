@@ -1,0 +1,331 @@
+.clear {
+	CLEAR:both;
+	HEIGHT:38px;
+}
+.middle2aa1 {
+	float:left;
+	background-color:#f9fcff;
+	border:1px solid #B5D9EE;
+	margin-top:2px;
+	width:719px;
+	margin-bottom:9px;
+	color:#FF0000;
+}
+.middle2aa1 a {
+	color:#ff0000;
+}
+.middle2aa1_h {
+	text-align:right;
+	width:719px;
+	height:26px;
+	line-height:25px;
+	float:left;
+	BACKGROUND:url(sh_2.jpg) repeat-x;
+	border-bottom:1px solid #B5D9EE;
+	color:#000000;
+	margin-bottom:13px;
+}
+.middle2aa1_h span {
+	padding-left:47px;
+	float:left;
+	color:#000000;
+	font-family:Arial,sans-serif;
+	font-size:12px;
+	height:26px;
+	line-height:23px;
+	padding-top:2px;
+	background:url(smakk.gif) 21px 7px no-repeat;
+}
+.middle2aa1 ul {
+	list-style:none;
+	padding-left:23px;
+}
+.middle2aa1 ul.hang2 {
+	background-color:#f0f0f0;
+	width:696px;
+}
+.middle2aa1 ul.hang1 {
+	background-color:#f9fcff;
+	width:696px;
+}
+.middle2aa1 ul li {
+	float:left;
+	width:336px;
+	text-align:left;
+	color:#6F616E;
+	padding-top:11px;
+	padding-bottom:9px;
+}
+.middle2aa1 ul li span {
+	font-size:12px;
+	padding-right:25px;
+	padding-left:15px;
+	font-size:12px;
+	color:#BC2931;
+}
+.middle2aa1 ul li a {
+	font-size:14px;
+	color:#000000;
+}
+.middle2aa1 ul li a:hover {
+	color:#2C602F;
+	text-decoration:underline;
+}
+.classpage33 {
+	text-align:left;
+	background-color:#f9fcff;
+	color:#D90000;
+}
+/* classpage */
+#classpage {
+	clear:both;
+	width:964px;
+	margin:0 auto;
+	color:#636563;
+}
+#classpage1 {
+	overflow:hidden;
+	float:right;
+	width:230px;
+}
+#baidu1 {
+	width:960px;
+	height:90px;
+	background:#f9fcff;
+	margin-top:-2px;
+        margin-bottom:1px;
+}
+#baidu2 {
+	margin-top:70px;
+}
+.top2a1178 {
+	float:right;
+	width:228px;
+	border:1px solid #B5D9EE;
+	background-color:#f9fcff;
+	margin-top:2px;
+}
+.top2a1178 a {
+	color:000000;
+	text-decoration:none;
+}
+.top2a1178 a:hover {
+	color:#2C602F;
+	text-decoration:underline;
+}
+.top2a1178 ul {
+	list-style:none;
+	margin-top:13px;
+	margin-left:6px
+}
+.top2a1178 ul li {
+	list-style:none;
+	width:215px;
+	float:left;
+	text-align:left;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.top2a1178 ul li a {
+	height:19px;
+	line-height:19px;
+}
+.top2a1178 ul li span {
+	float:right;
+	color:#df3f1f;
+	font-size:12px;
+	font-family:verdana;
+	font-weight:bold;
+}
+.top2a1178 ul li span a {
+	color:#888;
+	font-size:12px;
+	font-family:verdana;
+	padding-left:5px;
+}
+.top2a1178 ul li  b {
+	width:24px;
+	height:17px;
+	font-size:12px;
+	float:left;
+	text-align:center;
+	line-height:16px;
+	zoom:1;
+	font-family:verdana;
+	margin-right:6px;
+	font-weight:normal;
+	color:#888;
+}
+.top2a1178 ul li a {
+	color:#000000;
+	font-size:14px;
+	font-weight:normal;
+}
+.top2a15_h {
+	BACKGROUND:url(sh_2.jpg) repeat-x;
+	border-bottom:1px solid #B5D9EE;
+	font-family:Arial,sans-serif;
+	color:#2C602F;
+	height:26px;
+	line-height:25px;
+	text-align:left;
+	padding:2px 0px 0px 14px;
+}
+.top2a15_h p {
+	text-align:left;
+	background:url(img01.gif) 0px 6px no-repeat;
+	padding-left:27px;
+	font-size:14px;
+	color:#bc2931;
+	font-weight:bold;
+	letter-spacing:5px;
+}
+.top2a15_h span {
+	float:right;
+	font-size:12px;
+	font-weight:normal;
+	padding:1px 7px 0px 0px;
+	color:#333;
+	letter-spacing:3px;
+}
+#classpage {
+	clear:both;
+	width:962px;
+	margin:0 auto;
+	color:#636563;
+	margin-bottom:3px;
+}
+#classpage2 {
+	float:left;
+}
+#classpage6 {
+	overflow:hidden;
+}
+#classpage10 {
+	width:709px;
+	text-align:left;
+	padding-left:10px;
+	clear:both;
+	height:33px;
+	line-height:30px;
+	background:#f9fcff;
+	border:1px solid #B5D9EE;
+	color:#000000;
+}
+#mimi {
+	margin:0 auto;
+	clear:both;
+	padding-top:18px;
+}
+#fooda {
+	background:url(Bg1.png) 0 0 repeat-x #ebebeb;
+	border:1px solid #e2e2e2;
+	margin-top:18px;
+	overflow:hidden;
+	height:100px;
+}
+#footee {
+	width:962px;
+	margin:0 auto;
+}
+#footee .beihao {
+	margin-top:12px;
+}
+#footee p {
+	line-height:22px;
+	color:#666;
+}
+#footee p a {
+	color:#333;
+}
+/*--------------- 分页 -----------*/
+.pagebox {
+	font-size:12px;
+	width:100%;
+	overflow:hidden;
+	padding:5px 0 5px 0;
+}
+.pagebox em {
+	float:left;
+	margin-right:2px;
+	text-align:center;
+	padding:0 5px;
+	height:21px;
+	line-height:21px;
+	font-weight:bold;
+	color:#FFFFFF;
+	border:1px solid #CC0000;
+	background:#CC0000;
+	margin-right:10px;
+	font-style:normal;
+}
+.pagebox span {
+	float:right;
+	margin-right:2px;
+	padding:0 4px;
+	height:23px;
+	line-height:23px;
+}
+.pagebox span b {
+	color:#999;
+	font-weight:normal;
+	padding-left:2px;
+}
+.pagebox a:link,.pagebox a:visited {
+	border:1px solid #B5D9EE;
+	color:#333;
+	text-decoration:none;
+	padding:0 5px;
+	height:19px;
+	line-height:19px;
+	float:left;
+	display:inline;
+	margin-right:10px;
+	background-color:#f9fcff;
+	padding-top:2px;
+}
+.pagebox a:hover {
+	border:1px solid #B5D9EE;
+	color:#df3f1f;
+}
+.pagebox input {
+	float:left;
+	margin-right:5px;
+}
+.pagebox em.nolink {
+	background-color:#f9fcff;
+	border:1px solid #B5D9EE;
+	color:#000;
+	height:21px;
+	line-height:21px;
+	font-weight:400;
+	margin-right:10px;
+}
+#page {
+	height:17px;
+}
+.pagebox input {
+	background-color:#f9fcff;
+	border-color:#B5D9EE #B5D9EE #B5D9EE #B5D9EE;
+	border-style:solid;
+	border-width:1px;
+	color:#df3f1f;
+	padding:2px;
+	font-weight:bold;
+	font-family:verdana;
+}
+.pagebox input.btn {
+	cursor:pointer;
+	border:1px solid #B5D9EE;
+	background-color:#f9fcff;
+	color:#000000;
+	padding:4px 2px 0px 4px;
+	margin-left:5px;
+	font-weight:normal;
+	font-size:12px;
+}
+/* 
+*程序作者: vivi_studio
+*授权联系: qq:996948519
+*官网网址: www.vxiaotou.com
+*/

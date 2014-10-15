@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteBase /bdyyxt
+
+
+RewriteRule ^(.*)f/(.*)\.html$ $1/play\.php\?id=$2
+RewriteRule ^(.*)l/([0-9,a-z,A-Z]*)\.html$ $1/channel\.php\?id=$2
+RewriteRule ^(.*)l/([0-9,a-z,A-Z]*)_([0-9]+)\.html$ $1/channel\.php\?id=$2&pg=$3
+RewriteRule ^(.*)p/([0-9,a-z,A-Z]*)-([0-9,a-z,A-Z]*)\.html$ $1/article\.php\?id=$2&aid=$3

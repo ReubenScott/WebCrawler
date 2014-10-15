@@ -1,0 +1,1 @@
+document.writeln("<font color=#ffffff>≤•∑≈“≥π„∏Ê</font>")

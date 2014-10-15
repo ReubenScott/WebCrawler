@@ -1,0 +1,170 @@
+* {
+	margin:0;
+	padding:0;
+}
+body {
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+	text-align:center;
+	background:url(bg.jpg) repeat-x 0 top #ffffff;
+}
+.t {width:966px;}
+.t .top{ height: 90px; overflow: hidden;}
+.t .top .t_l{ float:left; width:200px; height: 75px; background: url(logo.png) no-repeat; _background-image:none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/templets/default/css/logo.png');}
+.t .top .t_c{ float: left; padding:4px 3px; color:#FFFFFF;}
+.t .top .t_r{ float: right; padding-top:3px;}
+.t .top .t_r select{ color: #646464;}
+.t .top .t_r a{ margin-left: 8px; color:#ffffff;}
+.t .top .t_r a:hover{color: #FF3300}
+a {
+	text-decoration:none;outline: none;
+}
+a:active {
+        star:expression(this.onFocus=this.blur());
+}
+:focus { 
+        outline:0;
+}
+#header {
+	width:100%;
+	MARGIN:0px auto;
+}
+#navbar {
+	width:100%;
+	height:35px;
+	position:relative;
+	background:url(xnav.gif) repeat-x 0 -45px;
+}
+#navbar_l {
+	width:10px;
+	height:35px;
+	position:absolute;
+	left:0;
+	top:0;
+	background:url(xnav.gif) no-repeat;
+}
+#navbar_r {
+	width:10px;
+	height:35px;
+	position:absolute;
+	right:0;
+	top:0;
+	background:url(xnav.gif) no-repeat right 0;
+}
+#navbar .nav {
+	width:966px;
+	text-align:center;
+	height:35px;
+}
+#navbar .nav li {
+	float:left;
+	list-style:none;
+}
+#navbar .nav li a {
+	color:#ffffff;
+	float:left;
+	padding:12px 9px 0px 9px;
+	height:23px;
+	font-size:14px;
+}
+#navbar .nav li a.cur {
+	color:#1379d2;
+	background:url(xnav.gif) no-repeat left -135px;
+}
+#navbar .nav li a:hover {
+	color:#1379d2;
+	background:url(xnav.gif) no-repeat left -135px;
+}
+#search {
+	width:964px;
+	height:33px;
+	background:url(repeat.gif) repeat-x 0 -337px;
+	border-left:1px solid #DCDCDC;
+	border-right:1px solid #DCDCDC;
+	border-bottom:1px solid #DCDCDC;
+	margin-bottom:3px;
+}
+#search .sform {
+	display:inline-block;
+	OVERFLOW:hidden;
+	padding:3px 4px 0px 5px;
+	float:left;
+	width:544px;
+	height:21px;
+	padding-top:9px;
+}
+#search .sform ul {
+	overflow:hidden;
+	color:#CCCCCC;
+	font-size:12px;
+	background:url(bdyy.gif) no-repeat 10px 0px;
+	letter-spacing:2px;
+}
+#search .sform ul a {
+	color:#000000;
+	overflow:hidden;
+	font-size:13px;
+	display:inline-block;
+	OVERFLOW:hidden;
+	padding:2px 4px 0px 5px;
+}
+#search .sform ul a:hover {
+	color:#0290fe;
+	text-decoration:underline;
+}
+#search .s_hot {
+	text-align:right;
+	padding-right:1px;
+	float:right;
+	height:21px;
+	padding-top:6px;
+	color:#FF0000;
+}
+#search .s_hot a {
+	color:#000000;
+	letter-spacing:1px;
+	display:inline-block;
+	OVERFLOW:hidden;
+	padding:3px 4px 0px 6px;
+}
+#search .s_hot a:hover {
+	color:#0290fe;
+	text-decoration:none;
+}
+.fm {
+	clear:both;
+	text-align:right;
+	position:relative;
+	z-index:297;
+	padding-right:10px;
+}
+.i {
+	width:146px;
+	height:15px;
+	padding:2px;
+	font:12px arial;
+	margin-right:5px;
+}
+.btn {
+	width:65px;
+	height:25px;
+}
+#miniNav {
+	width:988px;
+	height:30px;
+	color:#666666;
+	text-align:center;
+	margin:0 auto;
+}
+#miniNav a {
+	color:#666666;
+}
+#miniNav a:hover {
+	color:#CC3300;
+	text-decoration:none;
+}
+/* 
+*程序作者: vivi_studio
+*授权联系: qq:996948519
+*官网网址: www.vxiaotou.com
+*/

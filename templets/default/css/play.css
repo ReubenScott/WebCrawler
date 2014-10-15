@@ -1,0 +1,256 @@
+#classpage {
+	width:968px;
+	clear:both;
+	margin:0 auto;
+	margin-top:14px;
+	height: 530px;
+}
+.commendType {
+	float:left;
+	overflow:hidden;
+	width:645px;
+	height:533px;
+}
+.commendType2 {
+	padding-top:15px;
+	overflow:hidden;
+	float:right;
+	width:300px;
+	margin-top:-17px;
+}
+.commendType2 h3 {
+	margin-top:2px;
+	margin-top:-3px;
+}
+.left {
+	background:url(bg01.gif) repeat-x 0 -51px;
+	width:642px;
+	border:1px solid #000904;
+	line-height:25px;
+	height:25px;
+	z-index:299;
+}
+.left h3 {
+	padding-left:7px;
+	font-size:12px;
+	font-family:"宋体";
+	line-height:17px;
+	height:21px;
+	text-align:left;
+	font-weight:normal;
+	padding-top:6px;
+	color:#FFFFFF;
+}
+.left h3 span {
+	float:right;
+	padding-right:7px;
+	font-weight:normal;
+	background:url(7070.gif) 0px -1px no-repeat;
+	padding-left:22px;
+	line-height:18px;
+	height:20px;
+	color:#7AD7EB;
+}
+.left h3 b {
+	color:#7AD7EB;
+	font-weight:normal;
+}
+.left h3 b a {
+	color:#7AD7EB;
+}
+.left h3 b a:hover {
+	color:#FF0000;
+}
+.movienews41a a {
+	color:red;
+	font-size:14px;
+	text-decoration:none;
+	line-height:180%;
+}
+.movienews41a a b {
+	color:#0066FF;
+	font-size:14px;
+	text-decoration:none;
+	line-height:180%;
+}
+.movienews41a a:hover {
+	color:green;
+	text-decoration:underline;
+}
+.movienews41a p {
+	font-size:13px;
+	padding-left:8px;
+	text-align:left;
+	margin:3px;
+	color:#bc2931;
+	font-weight:bold;
+}
+.movienews41a {
+	float:center;
+	clear:both;
+	overflow-y:scroll;
+	height:174px;
+	width:633px;
+	padding-bottom:20px;
+	border:1px solid #000904;
+	margin-bottom:17px;
+	padding-top:10px;
+	padding-left:9px;
+	scrollbar-3dlight-color:#0F1815;
+	scrollbar-arrow-color:#0F1815;
+	scrollbar-darkshadow-color:#3F3F3F;
+	scrollbar-face-color:#3F3F3F;
+	scrollbar-highlight-color:#3F3F3F;
+	scrollbar-shadow-color:#0F1815;
+	scrollbar-track-color:#3F3F3F;
+}
+.movienews41a li {
+	float:left;
+	width:121px;
+	font-size:14px;
+	border:1px dashed #000904;
+	margin:10px 15px 9px 14px;
+	_margin:10px 17px 9px 9px;
+	list-style:none;
+}
+.movienews41a li a {
+	display:block;
+	width:121px;
+	text-align:center;
+	/* padding-left:2px;
+	*/height:25px;
+	line-height:27px;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+	overflow:hidden;
+}
+.movienews41a li a:hover {
+	color:#FF0000;
+	text-decoration:none;
+}
+.movienews41a li b {
+	color:#FF0000;
+	font-family:verdana;
+}
+#ggk {
+	overflow:hidden;
+}
+.bds {
+	clear:both;
+	margin:0 auto;
+	width:992px;
+	text-align:left;
+	margin-top:9px;
+	border-right:#DDDDDD 0px solid;
+}
+#bb {
+	zoom:1;
+	overflow:hidden;
+	width:992px;
+	font-family:verdana;
+	height:146px;
+	margin-top:9px;
+	border-right:#E3E3E3 1px solid;
+	border-left:#E3E3E3 1px solid;
+	border-top:#E3E3E3 1px solid;
+}
+#commendType11 {
+	zoom:1;
+	overflow:hidden;
+	width:992px;
+	border:1px solid #E3E3E3;
+	font-family:verdana;
+	height:330px;
+	margin-top:9px;
+}
+#top2ab113_h {
+	background:url(bylm.gif);
+}
+#top2ab113_h h3 {
+	background:url(fjrk.png) 18px 9px no-repeat;
+	line-height:34px;
+	height:35px;
+	padding-left:44px;
+	font-size:14px;
+	color:#383838;
+	text-align:left;
+	letter-spacing:2px;
+	font-family:verdana;
+}
+#top2ab113_h h4 {
+	line-height:34px;
+	height:35px;
+}
+#middle1a7 {
+	float:left;
+	padding-left:7px;
+	width:976px;
+	padding-top:5px;
+}
+#middle1a7 ul {
+	list-style:none;
+	width:675px;
+	float:left;
+	overflow:hidden;
+}
+#middle1a7 ul li {
+        border:0px solid #E3E3E3; 
+        padding:8px 7px;
+	float:left;
+}
+#middle1a7 ul li img {
+	border:0;
+	width:120px;
+	height:125px;
+}
+#middle1a7 ul li p {
+        text-align:center;
+}
+
+#middle1a7 ul li h3 {
+	width:120px;
+	height:19px;
+	line-height:15px;
+	padding-top:6px;
+	background:#484848;
+	filter:alpha(opacity=82);
+	opacity:0.9;
+	font-size:12px;
+	margin-top:-25px;
+	color:#ffffff;
+	font-weight:normal;
+	text-align:center;
+	overflow:hidden;
+	white-space:nowrap;
+}
+#middle1a7 ul li h3 a {
+	color:#fff;
+	background-color:#484848;
+}
+#fooda {
+	background:url(Bg1.png) 0 0 repeat-x #ebebeb;
+	border:1px solid #e2e2e2;
+	margin-top:18px;
+	overflow:hidden;
+	height:100px;
+	width: 90%;
+}
+#footee {
+	width:962px;
+	margin:0 auto;
+}
+#footee .beihao {
+	margin-top:12px;
+}
+#footee p {
+	line-height:22px;
+	color:#666;
+}
+#footee p a {
+	color:#333;
+}
+/* 
+*程序作者: vivi_studio
+*授权联系: qq:996948519
+*官网网址: www.vxiaotou.com
+*/

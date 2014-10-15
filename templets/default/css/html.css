@@ -1,0 +1,390 @@
+.bd {
+	width:960px;
+	text-align:center;
+	height:90px;
+	background:#f9fcff;
+	margin-top:-2px;
+        margin-bottom:3px;
+}
+.htk {
+	background:url(sh_2.jpg) repeat-x;
+	width:960px;
+	margin:0 auto;
+	color:#333333;
+	margin-top:2px;
+	border:1px solid #B5D9EE;
+	margin-bottom:4px;
+}
+.htk h3 {
+	text-align:left;
+	border-bottom:1px solid #B5D9EE;
+	background:url(bg05.gif) 21px 10px no-repeat;
+	padding-left:47px;
+	padding-top:1px;
+	font-weight:bold;
+	font-size:14px;
+	letter-spacing:2px;
+	height:33px;
+	line-height:31px;
+	color:#2C602F;
+	font-family:"宋体";
+}
+.htk h3 a {
+	color:#bc2931;
+}
+.htk h3 a:hover {
+	text-decoration:underline;
+}
+.htk h3 b {
+	letter-spacing:1px;
+	font-size:14px;
+	font-family:"宋体";
+}
+.htk h3 font {
+	letter-spacing:0px;
+	font-size:14px;
+	color:#2C602F;
+	font-family:verdana;
+	letter-spacing:1px;
+}
+.htk span {
+	float:right;
+	padding-left:65px;
+	padding-right:4px;
+	padding-top:3px;
+	background:url(fxiang.gif) 0px 5px no-repeat;
+}
+#yckz {
+	border:1px solid #E3E3E3;
+	padding:1px;
+	margin-top:4px;
+	zoom:1;
+	float:right;
+}
+.zckz {
+	overflow:hidden;
+	padding-right:4px;
+	padding-left:1px;
+	width:960px;
+}
+.zcx {
+	float:left;
+	width:600px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-top:10px;
+}
+.zka {
+	float:left;
+	width:120px;
+	height:142px;
+	border:1px solid #E3E3E3;
+	padding:1px;
+}
+.zkb {
+	overflow:hidden;
+	padding-left:5px;
+	height:151px;
+	width:468px;
+	text-align:left;
+}
+.zkb ul {
+	list-style:none;
+	height:59px;
+}
+.zkb ul li {
+	line-height:14px;
+	color:#000000;
+	padding-top:5px;
+}
+.zkb ul li a {
+	color:#000000;
+}
+.zkb p {
+	border:0px solid #FFC2A3;
+}
+#pfk {
+	float:left;
+	margin-top:3px;
+	border:1px solid #E4E4E4;
+	width:600px;
+	overflow:hidden;
+	font-size:13px;
+	color:#999999;
+}
+#classbo {
+	clear:both;
+	width:962px;
+	margin:0 auto;
+	color:#333333;
+	margin-top:15px;
+}
+#lk {
+	width:958px;
+	text-align:left;
+	border-top:1px solid #E9E9E9;
+	border-right:1px solid #E9E9E9;
+	border-left:1px solid #E9E9E9;
+	BACKGROUND:url(bylm.gif) repeat-x;
+	padding:1px;
+	zoom:1;
+	overflow:hidden;
+}
+.title {
+	padding-left:45px;
+	height:29px;
+	line-height:25px;
+	font-size:14px;
+	color:#2C602F;
+	font-weight:bold;
+	letter-spacing:1px;
+	overflow:hidden;
+	padding-top:3px;
+	background:url(bb.gif) 19px 8px no-repeat;
+}
+.title h1 {
+	background:url(bf.gif) no-repeat left -36px;
+	text-align:left;
+	overflow:hidden;
+	height:20px;
+}
+.title h2 {
+	background:url(bf.gif) no-repeat left -36px;
+	text-align:left;
+	overflow:hidden;
+	height:20px;
+}
+.title h3 {
+	background:url(bf.gif) no-repeat left -75px;
+	text-align:left;
+	overflow:hidden;
+	height:20px;
+}
+.title h4 {
+	background:url(bf.gif) no-repeat left -115px;
+	text-align:left;
+	overflow:hidden;
+	height:20px;
+}
+.title span {
+	float:right;
+	font-size:12px;
+	font-weight:normal;
+	color:#0290fe;
+	padding-right:11px;
+}
+.title span a b {
+	font-weight:normal;
+	padding-right:3px;
+	padding-left:3px;
+}
+#lk a {
+	color:#ff0000;
+	font-weight:normal;
+	font-size:12px;
+}
+#lk b:hover {
+	color:#FF0000;
+	font-weight:normal;
+	font-size:12px;
+        text-decoration:underline;
+}
+#jk {
+	text-align:left;
+	width:960px;
+	height:100%;
+	overflow:hidden;
+	border-right:1px solid #E9E9E9;
+	border-left:1px solid #E9E9E9;
+	border-bottom:1px solid #E9E9E9;
+	padding-top:13px;
+	padding-bottom:20px;
+	margin-bottom:15px;
+}
+.jc {
+	float:left;
+	padding-left:17px;
+	width:118px;
+	margin:6px 0px 7px 0px;
+	font-size:14px;
+}
+.jc a {
+	border:1px solid #DCDCDC;
+	background:#F2F2F2;
+	color:#333333;
+	display:block;
+	width:115px;
+	text-align:center;
+	height:26px;
+	line-height:26px;
+	padding-top:2px;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+	overflow:hidden;
+}
+.jc a:hover {
+	background:#FFBC00;
+	color:#FFFFFF;
+	border:1px solid #EA8C00;
+	text-decoration:none;
+}
+.tkbd {
+	width:960px;
+	height:61px;
+	text-align:center;
+}
+#tka {
+	zoom:1;
+	overflow:hidden;
+	width:960px;
+	border:1px solid #E9E9E9;
+	margin-top:15px;
+}
+#tkb {
+	zoom:1;
+	overflow:hidden;
+	width:960px;
+	border:1px solid #E9E9E9;
+	margin-top:15px;
+}
+#lmt {
+	background:url(bylm.gif);
+}
+#lmt h3 {
+	font-size:14px;
+	line-height:34px;
+	height:35px;
+	color:#383838;
+	padding-left:18px;
+	text-align:left;
+	letter-spacing:1px;
+}
+#tu {
+	float:left;
+	width:947px;
+    height:167px;
+	padding-bottom:9px;
+	padding-left:11px;
+	zoom:1;
+	overflow:hidden;
+}
+#tu ul {
+	list-style:none;
+	margin-top:8px;
+}
+#tu ul li {
+    border:1px solid #E3E3E3;
+    margin:8px 6px;
+	float:left;
+}
+#tu ul li img {
+	border:0;
+	width:120px;
+	height:142px;
+}
+#tu ul li p {	
+	text-align:center;
+}
+#tu ul li a:hover {
+	display:block;
+	border:1px solid #FF3300;
+}
+#tu ul li h3 {
+	width:120px;
+	height:19px;
+	line-height:15px;
+	padding-top:6px;
+	background:#484848;
+	filter:alpha(opacity=82);
+	opacity:0.9;
+	font-size:12px;
+	margin-top:-25px;
+	color:#ffffff;
+	font-weight:normal;
+	text-align:center;
+	overflow:hidden;
+	white-space:nowrap;
+}
+#tu ul li h3 a {
+	color:#fff;
+	background-color:#484848;
+}
+#jq {
+	background:url(bylm.gif);
+}
+#jq h2 {
+	font-size:14px;
+	line-height:34px;
+	height:35px;
+	color:#383838;
+	padding-left:18px;
+	text-align:left;
+	letter-spacing:1px;
+}
+#jq h2 a {
+	color:#383838;
+}
+#jq h2 a:hover {
+	text-decoration:underline;
+}
+.commend {
+	text-align:left;
+	width:940px;
+	background-color:#f9fcff;
+	padding:10px;
+}
+.commend p {
+	text-align:left;
+	color:#000000;
+	font-size:14px;
+	padding-left:8px;
+	line-height:180%;
+	word-break:break-all;
+}
+.commend p a {
+	color:#000000;
+}
+.commend p b {
+	font-weight:normal;
+}
+#comb {
+	zoom:1;
+	overflow:hidden;
+	width:946px;
+	height:16px;
+	border:1px solid #EDCE7B;
+	margin-top:15px;
+	padding:8px;
+	padding-top:9px;
+	background-color:#FFFFEA;
+	color:#333333;
+}
+#comb a {
+	color:#BD0000
+}
+#fooda {
+	background:url(Bg1.png) 0 0 repeat-x #ebebeb;
+	border:1px solid #e2e2e2;
+	margin-top:18px;
+	overflow:hidden;
+	height:100px;
+}
+#footee {
+	width:962px;
+	margin:0 auto;
+}
+#footee .beihao {
+	margin-top:12px;
+}
+#footee p {
+	line-height:22px;
+	color:#666;
+}
+#footee p a {
+	color:#333;
+}
+/* 
+*程序作者: vivi_studio
+*授权联系: qq:996948519
+*官网网址: www.vxiaotou.com
+*/

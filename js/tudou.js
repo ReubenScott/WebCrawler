@@ -1,0 +1,4 @@
+function addFlash(url,w,h){
+document.write('<embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://js.tudouui.com/bin/player_online/TudouVideoPlayer_Homer_197.swf" width="'+w+'" height="'+h+'" id="playerObject" name="playerObject" wmode="transparent" bgcolor="#FFFFFF" allowfullscreen="true" allowscriptaccess="sameDomain" flashvars="iid='+url+'&default_skin=0&tudouMini=http://js.tudouui.com/bin/tudoumini/TudouMini_39.swf&hd=2&isRec=1&durl=http://fpdownload.macromedia.com/get/flashplayer/current/licensing/win/install_flash_player_plugin.msi&ports=100:0&statratio=1000&safekey=IAlsoNeverKnow&theme=black&cs=350&ct=180&ca=0&cb=0.1&ctime=&cp=20&nc=0&actionID=1&ID=&adOwnerId=0&adPositionId=0&isNielson=0&isRenhe=0&vurl=&phd=-1&aid=&csc6=0&nls=0&np=0&nm=0&scale=1">');
+
+}

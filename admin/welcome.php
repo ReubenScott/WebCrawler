@@ -1,0 +1,1 @@
+<div class="right_top">欢迎使用vivi小偷系统，您当前的使用版本为：<span style="color: #FF6600"><?=$version;?></span></div>
